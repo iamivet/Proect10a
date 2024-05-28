@@ -1,0 +1,16 @@
+C:\1.C#\Моите проекти\10aPr\10aPr\obj\Debug\Proect10a.csproj.AssemblyReference.cache
+C:\1.C#\Моите проекти\10aPr\10aPr\obj\Debug\Proect10a.Admin.resources
+C:\1.C#\Моите проекти\10aPr\10aPr\obj\Debug\Proect10a.Galeriq.resources
+C:\1.C#\Моите проекти\10aPr\10aPr\obj\Debug\Proect10a.kontakti.resources
+C:\1.C#\Моите проекти\10aPr\10aPr\obj\Debug\Proect10a.Properties.Resources.resources
+C:\1.C#\Моите проекти\10aPr\10aPr\obj\Debug\Proect10a.proverka.resources
+C:\1.C#\Моите проекти\10aPr\10aPr\obj\Debug\Proect10a.Spisak.resources
+C:\1.C#\Моите проекти\10aPr\10aPr\obj\Debug\Proect10a.vhod.resources
+C:\1.C#\Моите проекти\10aPr\10aPr\obj\Debug\Proect10a.csproj.GenerateResource.cache
+C:\1.C#\Моите проекти\10aPr\10aPr\obj\Debug\Proect10a.csproj.CoreCompileInputs.cache
+C:\1.C#\Моите проекти\10aPr\10aPr\bin\Debug\Proect10a.exe.config
+C:\1.C#\Моите проекти\10aPr\10aPr\bin\Debug\Proect10a.exe
+C:\1.C#\Моите проекти\10aPr\10aPr\bin\Debug\Proect10a.pdb
+C:\1.C#\Моите проекти\10aPr\10aPr\obj\Debug\Proect10a.exe
+C:\1.C#\Моите проекти\10aPr\10aPr\obj\Debug\Proect10a.pdb
+C:\1.C#\Моите проекти\10aPr\10aPr\obj\Debug\Proect10a.Nachalo.resources
